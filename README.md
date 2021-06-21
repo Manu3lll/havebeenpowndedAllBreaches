@@ -8,3 +8,5 @@ Exports a Excel file which includes a list of all Breaches from https://haveibee
 - Download "HaveIbeenpownded.ps1" and run this by righclicking -> run with Powershell:
 - Follow the instructions
 
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/hmanuel02?)
+
